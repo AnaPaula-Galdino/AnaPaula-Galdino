@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Ana Paula Galdino 👋</h1>
 
 <p align="center">
-  <b>Analista de Dados em formação</b> · Supervisora de Faturamento · apaixonada por transformar dados em decisão
+  <b>Data Analytics com AI</b> · Supervisora de Faturamento · apaixonada por transformar dados em decisão
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 ### 🚀 Sobre mim
 
 - 🎓 Pós-graduação em **Data Analytics** (POSTECH/FIAP) e graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Eniac)
-- 💼 **Supervisora de Faturamento** — atuo no dia a dia com análise de dados, inadimplência e processos financeiros
+- 💼 **Supervisora de Faturamento** — atuo no dia a dia com análise de dados, automações, IA e processos financeiros
 - 🔭 Foco em **Data Analytics, Machine Learning e Automação**
 - 🧩 Gosto de resolver problemas reais com dados — da consulta SQL ao modelo preditivo
-- 🌎 Guarulhos / São Paulo
+- 🌎 São Paulo
 
 ### 🛠️ Tecnologias & Ferramentas
 
