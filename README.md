@@ -20,7 +20,7 @@
 ### 🚀 Sobre mim
 
 - 🎓 Pós-graduação em **Data Analytics** (POSTECH/FIAP) e graduação em **Análise e Desenvolvimento de Sistemas** (Universidade Eniac)
-- 💼 **Supervisora de Faturamento** — atuo no dia a dia com análise de dados, inadimplência e processos financeiros
+- 💼 **Supervisora de Faturamento** — atuo no dia a dia com análise de dados, agentes inteligentes, soluções com IA, apresentação executiva da área, com KPIs, OKRs e avanços do time.
 - 🔭 Foco em **Data Analytics, Machine Learning e Automação**
 - 🧩 Gosto de resolver problemas reais com dados — da consulta SQL ao modelo preditivo
 - 🌎 São Paulo · Brasil
